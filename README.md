@@ -1,6 +1,6 @@
 # 🚀 Bel-CMS v5.0
 
-[![License: license 2.0](https://img.shields.io/badge/license-MIT-yellow)](MIT license0)
+[![License: license 2.0](https://img.shields.io/badge/license-MIT-yellow)
 [![PHP Version](https://img.shields.io/badge/PHP-8.5%2B-777BB4.svg)](https://www.php.net/)
 [![Website](https://img.shields.io/badge/Website-bel--cms.dev-blue)](https://www.bel-cms.dev)
 
@@ -8,9 +8,9 @@
 
 ---
 
-## ✨ Nouveautés de la Version 5.0
+## ✨ Nouveautés de la Version 6.0
 
-- ⚡ **Architecture PHP 8.5 Native** : Exploitation maximale des dernières fonctionnalités de PHP (types stricts, performances accrues, gestion mémoire optimisée).
+- ⚡ **Architecture PHP 8.6 Native** : Exploitation maximale des dernières fonctionnalités de PHP (types stricts, performances accrues, gestion mémoire optimisée).
 - 🎨 **Moteur de Templates Moderne & Flexible** : Personnalisation fluide de votre frontend et backend avec une séparation nette entre logique et présentation.
 - 🔒 **Sécurité Renforcée** : Protection intégrée de haut niveau (CSRF, XSS, SQL Injection, gestion fine des sessions et des droits d'accès).
 - 🧩 **Système de Modules & Plugins Découplé** : Étendez les fonctionnalités de votre site sans toucher au cœur du CMS.
